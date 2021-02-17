@@ -71,3 +71,5 @@ Components of keychain to create:
     rotate([-75,180,90])  
     linear_extrude(1)  
     Subtract from top  
+
+[Printing at CofC Harbor Walk](https://www.makerbot.com/3d-printers/apps/makerbot-print/)
