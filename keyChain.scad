@@ -44,12 +44,11 @@ for(i=[0:10]){
     translate([0,i*2.5])
     cube([1.25,2,6]);
 }
-//spacebar
-cube();
 //joint
 rotate([-90])
 translate([0,-3,0])
 cylinder(h=36,r=3);
+//keyring
 difference(){
     //keyring outer
     translate([6,0,2])
