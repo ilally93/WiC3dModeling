@@ -7,9 +7,9 @@ Tutorial for 3d modeling: Computer Keychain
 New File
 
 Components of keychain to create:  
-- 9 cubes  
+- 8 cubes (base, top, keyboard, key, minikey, touchpad inner, touchpad outer, screen)  
     cube();  
-- 3 cylinders  
+- 3 cylinders (joint, keyring inner, keyring outer)  
     cylinder();  
 - 2 texts  
     text();  
@@ -61,10 +61,10 @@ Components of keychain to create:
     [1.25,2,6]  
     Starting move: [4.5,4.5]  
     iterative move: [0,j*2.5]
-15. Front Text
-    ["WiC"]
-    translate([-3,5,10])
-    rotate([75,0,90])
+15. Front Text  
+    ["WiC"]  
+    translate([-3,5,10])  
+    rotate([75,0,90])  
     linear_extrude(6)
 16. Back Text  
     ["CofC", size=5]  
