@@ -1,10 +1,9 @@
 # WiC3dModeling
-Tutorial for 3d modeling: Computer Keychain
-**Warning - Prototype has not been printed**
+Tutorial for 3d modeling: Computer Keychain  
+**Warning - Prototype has not been printed**  
 
 - Install [OpenSCAD](https://www.openscad.org/downloads.html)  
-
-New File
+    - New File
 
 Components of keychain to create:  
 - 8 cubes (base, top, keyboard, key, minikey, touchpad inner, touchpad outer, screen)  
